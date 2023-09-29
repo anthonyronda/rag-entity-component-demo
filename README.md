@@ -5,6 +5,12 @@ retrieval augmented generation of entities and components as applied to video ga
 
 All rights reserved to this research! However you are always allowed to create forks and experiment with new types
 
+## How can it help me
+
+Create serializable data (example: JSON/XML) from disorganized gameplay design notes, a wiki, or a different product
+(example: turn a TTRPG into a video game using only a PDF). Unity, UE, and others (Foundry VTT/Alchemy) can all
+serialize JSON into game entities with little to no coding
+
 ## What does it do
 
 1. Given a source (examples: wiki site, PDF), break it down into chunks based off some simple rules, and
